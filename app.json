@@ -1,11 +1,11 @@
 {
-    "name": "elegram Virustotal Bot",
+    "name": "telegram Virustotal Bot",
     "description": "A telegram bot which can scan telegram files smaller than 32MB.",
     "keywords": [
         "telegram",
         "virustotal"
     ],
-    "repository": "https://github.com/CHEF-KOCH/Telegram-VirusTotal-Bot",
+    "repository": "https://github.com/cyberio-pro/virustotal_tgbot_check",
     "env": {
         "APP_ID": {
             "description": "Get this value from https://my.telegram.org",
